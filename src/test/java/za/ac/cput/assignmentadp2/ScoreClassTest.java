@@ -57,6 +57,7 @@ import org.junit.jupiter.api.BeforeAll;
         int expResult = 0;
         int result = instance.testEquality(score1, score2);
         assertEquals(expResult, result);
+        
         // Failing Test
         //fail("The test case is a prototype.");
     }
