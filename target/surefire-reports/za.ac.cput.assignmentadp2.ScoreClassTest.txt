@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: za.ac.cput.assignmentadp2.ScoreClassTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.328 s <<< FAILURE! - in za.ac.cput.assignmentadp2.ScoreClassTest
+testTestIdentity  Time elapsed: 0.112 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at za.ac.cput.assignmentadp2.ScoreClassTest.testTestIdentity(ScoreClassTest.java:77)
+
